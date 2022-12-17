@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const connURL= "mongodb+srv://Kent18:<password>@cluster0.68hzr9g.mongodb.net/bdTutorias";
+const connURL= "mongodb+srv://admin:Pigmen_1@cluster0.eiy3d7l.mongodb.net/test";
 
 (async ()=>{
 
